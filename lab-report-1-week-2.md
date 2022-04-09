@@ -1,1 +1,1 @@
-![Image][1200x0.jpg]
+![Image][htpp://url/1200x0.jpg]
