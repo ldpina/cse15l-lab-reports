@@ -1,1 +1,1 @@
-![Image][monke.jpg]
+![Image](monke.jpg)
