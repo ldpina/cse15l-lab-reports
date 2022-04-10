@@ -11,8 +11,8 @@ Once fully installing VSCode you are going to want create a new java file and op
 
 ## Remotely Connecting
 ---
-a
-
+![Image](loggin.PNG)
+To begin your remote connection to the ieng6 cloud you are going to begin by typing in `ssh cs15lsp22zz@ieng6.ucsd.edu` (the 'zz' prior to the '@' may vary and you can check what is yours 3 letter ID for the course [Here](https://sdacs.ucsd.edu/~icc/index.php)). After running that line you will be prompted to enter a password, enter the password you use for your UCSD email and you should obtain a screen as the image shown above. Note that in my image it does not ask me for a password, later you too will obtain this neat trick!
 ## Trying Some Commands
 ---
 
