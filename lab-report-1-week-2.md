@@ -33,6 +33,6 @@ Now to log into ieng6 without a password, begin by typing in `ssh-keygen` or `ss
 
 ## Optimizng Remote Running
 ---
-![Image](easy.PNG)
+![Image](easy.PNG) 
 
 Now that we have always neat tricks there are more easier ways to call commands without much effort. For example instead of logging into ieng6 and then waiting for everything to load to check your files you could simply just do `ssh cs15lsp22zz@ieng6.ucsd.edu "ls"`. The way this works is that this line can run whatever command is within quotation marks (" ") in ieng6 without being fully within ieng6. It even works with running files!    
