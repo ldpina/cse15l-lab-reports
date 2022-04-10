@@ -16,7 +16,7 @@ To begin your remote connection to the ieng6 cloud you are going to begin by typ
 ## Trying Some Commands!
 ---
 ![Image](commands2.PNG)
-Best way to get familarized with something new is to try out a couple commands and see what their functions are. Here I demonstrate 3 commands, `ls`, `pwd`, `ls -l`.
+Best way to get familarized with something new is to try out a couple commands and see what their functions are. Here I demonstrate 3 commands, `ls`, to view all files associated with your login, `pwd`, to view the current location you are at on ieng6, `ls -l`, to see all youre files and when they were created.
 
 ## Moving Files with `scp` 
 ---
