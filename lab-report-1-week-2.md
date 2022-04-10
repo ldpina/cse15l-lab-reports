@@ -20,6 +20,8 @@ Best way to get familarized with something new is to try out a couple commands a
 
 ## Moving Files with `scp` 
 ---
+![Image](copyfile.PNG)
+Something neat about ieng6 server is that files from your current computer can be moved through ieng6 and be retrived on another computer. This can be done by first going to correct directory that your current file is in and then typing in `scp (filename.java) cs15lsp22zz@ieng6.ucsd.edu:~/`. It will then ask for your password and login as usal and then once you have done that log back into ieng6 as shown in step2 and type `ls`, there you should see your file you just SCP! 
 
 
 ## Setting an SSH Key
