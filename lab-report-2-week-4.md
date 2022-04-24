@@ -4,6 +4,7 @@
 The image above depicts the changes I made to my code in order to incoporate images into a single markdown file while only grabbing the links within the file. The file titled "[test2.md](https://github.com/ldpina/markdown-parser/blob/main/test2.md)" outputs the wrong output when MarkdownParse.java runs.
 
 ![Image](buggy.PNG)
+
 Displayed now is the output that came from running MarkdownParse.java file on `Test2.md` This is what caused me to make the edits in green in the first image. The bug that becomes apparent is the image intialization which is in line 3.
 
  ## What is the difference between a bug, symptom and failure-inducing input?
