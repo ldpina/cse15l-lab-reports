@@ -11,9 +11,10 @@ Now that the `config` file was created you can now type `ssh ieng6` and it will 
 
 Depicted above is now using the "ieng6" nickname in action where we scp a random file in our directory to the ieng6 server.
 ## Setting up Github Access from ieng6
-![Image](publickey.png)
+![Image](publicKey.png)
 
 Above is the public key that I created and stored in github.
+
 ![Image](privatekey.png)
 
 Here is where to find the private key I had created in ieng6.
