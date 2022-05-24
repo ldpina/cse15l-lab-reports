@@ -15,15 +15,13 @@
 ## Snippet 3
 ![Image](output3LAB4.PNG)
 
-# Imported Tests in `MY REPO`
-
-## My Implementation
+## Imported Tests
 ![Image](testCasesLab4.PNG)
 
-## My errors
+## `My` errors
 ![Image](lab4Test.PNG)
 
-## Reviewed Repo errors
+## `Reviewed` Repo errors
 
 ![Image](hi.PNG)
 
